@@ -1,0 +1,5 @@
+pycryptodome
+requests
+cloudscraper
+colorama
+rich
